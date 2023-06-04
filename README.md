@@ -1,6 +1,11 @@
 # Location-Based-Web-App-With-Django-and-GeoDjango
 Pilgrimage inforamtion Service Model
 
+Authors:
+
+Narendra Kumar V  and Rohitha.N
+
+
 •	The main aim of our project is to create an Integrated Geospatial Workflow to understand the development of 'LOCATION BASED WEB APPLICATION FOR PILIGRIMAGE TOURSIM' .The initially chosen study route is from Joshimath to Dehradun and Dehradun to Uttarkashi . The same can be replicated to other Travel routes. 
 
 •	In the current project we would be dealing with two tools namely Django and GeoDjango . Django makes it easy for developers to quickly build prototypes and meet their project deadlines by providing a plethora of built-in APIs and sub-frameworks such as GeoDjango provides a toolbox of utilities for building GIS web applications. 
